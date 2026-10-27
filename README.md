@@ -1,4 +1,4 @@
-# HSE_Introduction-to-Prompt-Engineering-
+# HSE_Introduction-to-Prompt-Engineering
 Итоговый проект по курсу "Введение в промпт-инжиниринг"
 # LLM и функции Проппа
 
