@@ -1,0 +1,16 @@
+model,cond,F1 (эталон v2),F1 (эталон v1)
+deepseek-v4.1-flash,A_names,0.692,0.698
+deepseek-v4.1-flash,B_defs,0.736,0.741
+deepseek-v4.1-flash,C_fewshot,0.73,0.735
+gpt-oss-120b,A_names,0.555,0.544
+gpt-oss-120b,B_defs,0.591,0.583
+gpt-oss-120b,C_fewshot,0.573,0.566
+gpt-oss-20b,A_names,0.481,0.473
+gpt-oss-20b,B_defs,0.519,0.51
+gpt-oss-20b,C_fewshot,0.516,0.512
+qwen3.8-27b,A_names,0.581,0.586
+qwen3.8-27b,B_defs,0.622,0.616
+qwen3.8-27b,C_fewshot,0.595,0.595
+yandexgpt-5.1,A_names,0.527,0.513
+yandexgpt-5.1,B_defs,0.621,0.615
+yandexgpt-5.1,C_fewshot,0.593,0.59

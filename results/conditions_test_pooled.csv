@@ -1,0 +1,4 @@
+compare,n_pairs,diff,share_better,p_wilcoxon
+B_defs − A_names,50,0.0504,0.72,0.0005
+C_fewshot − B_defs,50,-0.0161,0.44,0.0951
+C_fewshot − A_names,50,0.0343,0.74,0.0061
