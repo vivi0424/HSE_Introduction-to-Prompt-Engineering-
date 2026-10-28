@@ -18,7 +18,7 @@ FOLDER_ID = os.environ.get("YC_FOLDER_ID", "")   # идентификатор к
 # ключ (имя в результатах) -> имя модели в каталоге AI Studio
 YANDEX_MODELS = {
     "yandexgpt-5.1":       dict(uri="yandexgpt-5.1",       max_tokens=2000),
-    "deepseek-v4.1-flash": dict(uri="deepseek-v4.1-flash", max_tokens=20000, extra={"reasoning_effort": "low"}),
+    "deepseek-v4.1-flash": dict(uri="deepseek-v4.1-flash", max_tokens=20000),
 }
 
 N_ITER        = 5
